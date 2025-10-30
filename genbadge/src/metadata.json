@@ -1,0 +1,15 @@
+{
+  "name": "Genesis n-Badge",
+  "description": "Exclusive Genesis n-Badge for early OPN Chain supporters",
+  "image": "ipfs://QmYourImageHashHere",
+  "attributes": [
+    {
+      "trait_type": "Type",
+      "value": "Genesis n-Badge"
+    },
+    {
+      "trait_type": "Chain",
+      "value": "OPN"
+    }
+  ]
+}
